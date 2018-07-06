@@ -11,4 +11,5 @@
 * [Hiç Bilmeyenler İçin; API Nedir?](api-nedir.md)
 * [Neden Özgür Yazılım](neden-ozgur-yazilim.md)
 * [Nereden SQL Öğrenebilirim](nereden-sql-ogrenebilirim.md)
+* [Ödeme Formu Tasarımı - 1](oedeme-formu-tasarimi-1.md)
 
