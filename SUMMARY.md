@@ -6,6 +6,8 @@
   * [Postman Nedir](postman/postman-nedir.md)
   * [Kurulum ve İlk Sorgu](postman/kurulum-ve-ilk-sorgu.md)
   * [Arayüz](postman/arayuez.md)
+  * [Sorgular](postman/sorgular.md)
+  * [Kütüphaneler](postman/kuetuephaneler.md)
 * [Hiç Bilmeyenler İçin; API Nedir?](hic-bilmeyenler-icin-api-nedir.md)
 * [Neden Özgür Yazılım](neden-oezguer-yazilim.md)
 
