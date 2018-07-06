@@ -7,7 +7,8 @@
   * [Kurulum ve İlk Sorgu](postman/kurulum-ve-ilk-sorgu.md)
   * [Arayüz](postman/arayuez.md)
   * [Sorgular](postman/sorgular.md)
-  * [Kütüphaneler](postman/kuetuephaneler.md)
-* [Hiç Bilmeyenler İçin; API Nedir?](hic-bilmeyenler-icin-api-nedir.md)
-* [Neden Özgür Yazılım](neden-oezguer-yazilim.md)
+  * [Kütüphaneler](postman/kutuphaneler.md)
+* [Hiç Bilmeyenler İçin; API Nedir?](api-nedir.md)
+* [Neden Özgür Yazılım](neden-ozgur-yazilim.md)
+* [Nereden SQL Öğrenebilirim](nereden-sql-ogrenebilirim.md)
 
