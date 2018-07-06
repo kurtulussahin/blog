@@ -62,9 +62,7 @@ kodunuz API’a sorgu yaparken _https://api.twitter.com/1.1/statuses/update.json
 
 **AccuWeather API:** Sitenizde veya uygulamanızda hava durumu bilgisi göstermek isterseniz, bilgileri bu API’dan otomatik olarak alabilirsiniz.
 
-```text
-
-```
+## 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Xof70YJQrhCh6kiIxYxVDw.png)
 
