@@ -1,8 +1,8 @@
 # CV
 
-kurtulussahin@gmail.com
+**kurtulussahin@gmail.com**
 
-linkedin.com/in/kurtulussahin
+**linkedin.com/in/kurtulussahin**
 
 ### **DENEYİM ---------------------**
 
@@ -57,4 +57,6 @@ linkedin.com/in/kurtulussahin
 * **Yazılar :** [medium.com/@kurtulussahin](https://www.medium.com/@kurtulussahin)
 * **Creative Mix :** [kurtulussahin.tumblr.com](http://www.kurtulussahin.tumblr.com/)
 * **Piksel Boncuk :** [instagram.com/piksel\_butik](https://www.instagram.com/piksel_butik)
+
+
 
