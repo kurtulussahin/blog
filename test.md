@@ -1,8 +1,8 @@
----
-description: kurtulussahin@gmail.com -  linkedin.com/in/kurtulussahin
----
-
 # CV
+
+kurtulussahin@gmail.com
+
+linkedin.com/in/kurtulussahin
 
 ### **DENEYİM ---------------------**
 

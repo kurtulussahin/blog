@@ -1,10 +1,3 @@
----
-description: >-
-  Postman, 3 milyondan fazla yazılımcının API’ları paylaşmak, test etmek,
-  dokümante etmek, monitör etmek için kullandığı, dünyanın en çok kullanılan
-  “rest client”ı.
----
-
 # Postman Nedir
 
 

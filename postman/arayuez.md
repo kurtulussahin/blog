@@ -1,7 +1,3 @@
----
-description: Postman uygulamasının arayüzünün incelenmesi
----
-
 # Arayüz
 
 Postman arayüzü “Header Bar”, “Sidebar” ve “Builder” olmak üzere 3 temel kısımdan oluşur.

@@ -1,7 +1,3 @@
----
-description: Postman kurulumu ve ilk sorgu
----
-
 # Kurulum ve İlk Sorgu
 
 Postman kullanmak için dilerseniz [Chrome uygulaması](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)nı dilerseniz [native uygulama](https://www.getpostman.com/postman)yı tercih edebilirsiniz.
