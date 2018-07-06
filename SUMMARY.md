@@ -7,4 +7,5 @@
   * [Kurulum ve İlk Sorgu](postman/kurulum-ve-ilk-sorgu.md)
   * [Arayüz](postman/arayuez.md)
 * [Hiç Bilmeyenler İçin; API Nedir?](hic-bilmeyenler-icin-api-nedir.md)
+* [Neden Özgür Yazılım](neden-oezguer-yazilim.md)
 
