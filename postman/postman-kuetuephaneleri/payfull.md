@@ -1,4 +1,4 @@
-# PayFull Api Postman Kütüphanesi
+# PayFull
 
 ![](https://cdn-images-1.medium.com/max/800/1*SU39YMXiGeztF1Kt2d6bQQ.png)
 

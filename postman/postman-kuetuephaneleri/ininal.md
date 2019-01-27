@@ -1,4 +1,4 @@
-# ininal Api Postman Kütüphanesi
+# ininal
 
 [ininal](https://medium.com/@ininalkart)’ın geliştiriciler için sunduğu API’ını kolayca inceleyebilmek ve test edebilmek için hazırladığım postman kütüphanesini [bu linkten](https://www.getpostman.com/collections/6dc8437dc3c85e2444b1) indirebilirsiniz: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/6dc8437dc3c85e2444b1)
 

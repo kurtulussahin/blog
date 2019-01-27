@@ -1,4 +1,4 @@
-# Param Sanal Pos API Postman Kütüphanesi
+# Param
 
 Param Sanal Pos Api:[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3d5d5bb1807e428558f9)
 
