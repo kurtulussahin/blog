@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Merhaba](README.md)
-* [CV](cv.md)
 * [Postman](postman/README.md)
   * [Adım Adım Postman](postman/adim-adim-postman/README.md)
     * [Postman Nedir](postman/adim-adim-postman/postman-nedir.md)
@@ -9,12 +8,13 @@
     * [Arayüz](postman/adim-adim-postman/arayuez.md)
     * [Sorgular](postman/adim-adim-postman/sorgular.md)
     * [Kütüphaneler](postman/adim-adim-postman/kutuphaneler.md)
-* [Postman Kütüphaneleri](postman-kuetuephaneleri/README.md)
-  * [Param Sanal Pos API Postman Kütüphanesi](postman-kuetuephaneleri/param-sanal-pos-api-postman-kuetuephanesi.md)
-  * [ininal Api Postman Kütüphanesi](postman-kuetuephaneleri/ininal.md)
-  * [PayFull Api Postman Kütüphanesi](postman-kuetuephaneleri/payfull.md)
+  * [Postman Kütüphaneleri](postman/postman-kuetuephaneleri/README.md)
+    * [Param Sanal Pos API Postman Kütüphanesi](postman/postman-kuetuephaneleri/param-sanal-pos-api-postman-kuetuephanesi.md)
+    * [ininal Api Postman Kütüphanesi](postman/postman-kuetuephaneleri/ininal.md)
+    * [PayFull Api Postman Kütüphanesi](postman/postman-kuetuephaneleri/payfull.md)
 * [Ödeme Formu Tasarımı - 1](oedeme-formu-tasarimi-1.md)
 * [Hiç Bilmeyenler İçin; API Nedir?](api-nedir.md)
 * [Neden Özgür Yazılım](neden-ozgur-yazilim.md)
 * [Nereden SQL Öğrenebilirim](nereden-sql-ogrenebilirim.md)
+* [CV](cv.md)
 
