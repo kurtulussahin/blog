@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Merhaba](README.md)
+* [2018 Kartlı Ödeme Verileri](2018-kartli-oedeme-verileri.md)
 * [Postman](postman/README.md)
   * [Adım Adım Postman](postman/adim-adim-postman/README.md)
     * [Postman Nedir](postman/adim-adim-postman/postman-nedir.md)
@@ -12,7 +13,10 @@
     * [Param Sanal Pos API Postman Kütüphanesi](postman/postman-kuetuephaneleri/param-sanal-pos-api-postman-kuetuephanesi.md)
     * [ininal Api Postman Kütüphanesi](postman/postman-kuetuephaneleri/ininal.md)
     * [PayFull Api Postman Kütüphanesi](postman/postman-kuetuephaneleri/payfull.md)
-* [Ödeme Formu Tasarımı - 1](oedeme-formu-tasarimi-1.md)
+* [Ödeme Formu Tasarımı](oedeme-formu-tasarimi/README.md)
+  * [Renk Körlüğü ve Ödeme Formu Tasarımı](oedeme-formu-tasarimi/renk-koerluegue-ve-oedeme-formu-tasarimi.md)
+  * [Ödeme Formu Tasarımı — 2](oedeme-formu-tasarimi/oedeme-formu-tasarimi-2.md)
+  * [Ödeme Formu Tasarımı - 1](oedeme-formu-tasarimi/oedeme-formu-tasarimi-1.md)
 * [Hiç Bilmeyenler İçin; API Nedir?](api-nedir.md)
 * [Neden Özgür Yazılım](neden-ozgur-yazilim.md)
 * [Nereden SQL Öğrenebilirim](nereden-sql-ogrenebilirim.md)
