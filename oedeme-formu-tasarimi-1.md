@@ -1,6 +1,6 @@
 # Ödeme Formu Tasarımı - 1
 
-## Ödeme Formu Tasarımı {#64ba}
+## Ödeme Formu Tasarımı <a id="64ba"></a>
 
 Ödeme formu, bir e-ticaret sitesi için sepet dönüşüm oranını etkileyen en önemli faktörlerden biri olduğu için, tasarımında çok dikkatli olunması gerekiyor.
 
@@ -9,7 +9,7 @@ Sonraki yazılarda, ödeme formlarını birbirleri ile karşılaştırarak, şir
 
 ![](https://cdn-images-1.medium.com/max/1600/1*N9kzmGrSvqD_cQgdiKhrfg.jpeg)
 
-#### 1- Örnek Ödeme Formları {#445a}
+#### 1- Örnek Ödeme Formları <a id="445a"></a>
 
 Dünyadan ve Türkiye’den örnekleri içeren bu ilk yazı bol görselli fakat çok az yorumun olduğu, genel bir fikir edinmek ve sonraki yazılara hazırlık amaçlı olacak.
 

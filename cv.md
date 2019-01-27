@@ -6,12 +6,15 @@
 
 ### **DENEYİM ---------------------**
 
-#### **Ödeme Sistemleri Entegrasyon Uzmanı \(iyzico, Haz 2015 – Şu anda . 3 Yıl\)**
+**Kartlı Ödemeler İş Analisti \(Ibitech, Eyl 2018 – Şu anda\)**
 
-* iyzico entegrasyonu için müşterilere teknik destek
-* Açık kaynaklı ve hazır eticaret altyapıları için entegrasyon kurulum rehberlerinin hazırlanması
-* Açık kaynaklı eticaret modülleri analizi
+* Kartlı Ödemeler - EMV
+
+#### **Ödeme Sistemleri Entegrasyon Mühendisi \(iyzico, Haz 2015 – Eyl 2018. 3 yıl 3 Ay\)**
+
 * Api dökümantasyonu hazırlanması
+* iyzico key accountları için ödeme sistemi Api entegrasyonu desteği
+* Açık kaynaklı eticaret modülleri analizi
 * Api sorgusu için hazırlanan kod kütüphanelerine katkı
 * Yeni geliştirilecek ürün ve özellikler için analiz
 * Yeni geliştirilen ürün ve özelliklerin testi
@@ -47,10 +50,6 @@
 * **Sql**
 
   [hackerrank.com/kurtulussahin](https://www.hackerrank.com/kurtulussahin)
-
-* **Api Dökümantasyonu**
-
-  [github.com/kurtulussahin/iyzipay-apidoc](https://www.github.com/kurtulussahin/iyzipay-apidoc)
 
 ### **CAN SIKINTISI ---------------------**
 

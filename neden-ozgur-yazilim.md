@@ -134,7 +134,7 @@ Bir kısmı da bilgisayarlarında kullandıkları yazılımların lisans bedelle
 
 ![Richard Stallman](https://cdn-images-1.medium.com/max/1600/1*QV7L9493tBvnBZThYCDARA.jpeg)
 
-#### Kaynakça {#c6fd}
+#### Kaynakça <a id="c6fd"></a>
 
 _Güneş, İsmail. “ Selçuk Üniversitesi Karaman İ . İ . B . F . Dergisi ”. Yerel_
 
