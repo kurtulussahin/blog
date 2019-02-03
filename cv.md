@@ -26,6 +26,7 @@
 #### **Staj – IT Analist \(Meteoroloji İstanbul Bölge Müdürlüğü, Tem 2014 – Eki 2014 . 4 Ay\)**
 
 * Otomatik meteoroloji gözlem istasyonlarından alınan verilerin, hava tahmin uzmanları tarafından hızlı ve verimli şekilde yorumlanabilmesi için online raporlama uygulamasının analiz, tasarım ve geliştirilmesi.
+*  Hava tahmin ve gözlem uygulamalarının analiz ve testi.
 
 #### **Staj - IT \(Üniversite Plus, Tem 2013 – Ağu 2013 . 2 Ay\)**
 
