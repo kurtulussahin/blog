@@ -2,6 +2,9 @@
 
 * [Merhaba](README.md)
 * [2018 Kartlı Ödeme Verileri](2018-kartli-oedeme-verileri.md)
+* [Datacamp Projeleri](datacamp-projeleri/README.md)
+  * [A Visual History of Nobel Prize Winners](datacamp-projeleri/a-visual-history-of-nobel-prize-winners.md)
+  * [Rise and Fall of Programming Languages](datacamp-projeleri/rise-and-fall-of-programming-languages.md)
 * [Postman](postman/README.md)
   * [Adım Adım Postman](postman/adim-adim-postman/README.md)
     * [Postman Nedir](postman/adim-adim-postman/postman-nedir.md)
