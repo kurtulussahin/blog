@@ -1,5 +1,7 @@
 # CV
 
+{% file src=".gitbook/assets/kurtulus\_sahin\_cv.pdf" %}
+
 **kurtulussahin@gmail.com**
 
 **linkedin.com/in/kurtulussahin**
