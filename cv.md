@@ -54,6 +54,8 @@
 
   [hackerrank.com/kurtulussahin](https://www.hackerrank.com/kurtulussahin)
 
+* **Veri Bilimi** [https://github.com/kurtulussahin/Datacamp-Projects](https://github.com/kurtulussahin/Datacamp-Projects)
+
 ### **CAN SIKINTISI ---------------------**
 
 * **Yazılar :** [medium.com/@kurtulussahin](https://www.medium.com/@kurtulussahin)
