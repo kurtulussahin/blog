@@ -3,6 +3,7 @@
 * [Merhaba](README.md)
 * [2018 Kartlı Ödeme Verileri](2018-kartli-oedeme-verileri.md)
 * [Datacamp Projeleri](datacamp-projeleri/README.md)
+  * [Predict Taxi Fares with Random Forests](datacamp-projeleri/predict-taxi-fares-with-random-forests.md)
   * [Functions for Food Price Forecasts.ipynb](datacamp-projeleri/functions-for-food-price-forecasts.ipynb.md)
   * [A Visual History of Nobel Prize Winners](datacamp-projeleri/a-visual-history-of-nobel-prize-winners.md)
   * [Rise and Fall of Programming Languages](datacamp-projeleri/rise-and-fall-of-programming-languages.md)
