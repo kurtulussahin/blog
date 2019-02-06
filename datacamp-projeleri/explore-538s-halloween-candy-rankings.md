@@ -10,13 +10,11 @@ description: >-
 
 ###  1. Importing packages and data
 
-![Bowl of halloween candy](https://camo.githubusercontent.com/83e04eb1c5af459de1724bef73811b9b9df39829/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6173736574732e6461746163616d702e636f6d2f70726f64756374696f6e2f70726f6a6563745f3435382f696d672f63616e64792e6a7067)
-
 With Halloween just around the corner, it seems like everyone has candy on the brain! There's a great dataset from [FiveThirtyEight](https://fivethirtyeight.com/)that includes all sorts of different information about different kinds of candy. For example, is it chocolaty? Is there nougat? How does the cost compare to other candies? How many people prefer this candy over another?
 
 We'll run through a whirlwind tour of this dataset and wrap up by trying some modeling techniques out on it! Specifically, we'll take a look at linear and logistic regression.
 
-First things first, let's get our packages and data loaded up and take a look at exactly what we're dealing with.In \[22\]:
+First things first, let's get our packages and data loaded up and take a look at exactly what we're dealing with:
 
 ```text
 # Load all the packages we need
