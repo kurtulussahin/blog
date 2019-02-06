@@ -1,10 +1,14 @@
+---
+description: >-
+  we're going to reanalyze the data that made Semmelweis discover the importance
+  of handwashing.
+---
+
 # Dr. Semmelweis and the Discovery of Handwashing.ipynb
 
 {% embed url="https://github.com/kurtulussahin/Datacamp-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb" %}
 
-###  1. Meet Dr. Ignaz Semmelweis[¶](https://render.githubusercontent.com/view/ipynb?commit=b635b5b96531044f9419ff7e64d2e9f74b1126f3&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6b757274756c7573736168696e2f4461746163616d702d50726f6a656374732f623633356235623936353331303434663934313966663765363464326539663734623131323666332f44722e25323053656d6d656c77656973253230616e64253230746865253230446973636f766572792532306f6625323048616e6477617368696e672e6970796e62&nwo=kurtulussahin%2FDatacamp-Projects&path=Dr.+Semmelweis+and+the+Discovery+of+Handwashing.ipynb&repository_id=168980953&repository_type=Repository#1.-Meet-Dr.-Ignaz-Semmelweis)
-
-![](https://camo.githubusercontent.com/1186dff5243279304d5dec83ba093d14fdd4319f/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6173736574732e6461746163616d702e636f6d2f70726f64756374696f6e2f70726f6a6563745f34392f64617461736574732f69676e617a5f73656d6d656c776569735f313836302e6a706567)
+###  1. Meet Dr. Ignaz Semmelweis
 
 This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. If Dr. Semmelweis looks troubled it's probably because he's thinking about _childbed fever_: A deadly disease affecting women that just have given birth. He is thinking about it because in the early 1840s at the Vienna General Hospital as many as 10% of the women giving birth die from it. He is thinking about it because he knows the cause of childbed fever: It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and _wash their hands_!
 
