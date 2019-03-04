@@ -23,7 +23,7 @@
     * [PayFull](postman/postman-kuetuephaneleri/payfull.md)
   * [Postman Türkiye Topluluğu](postman/postman-tuerkiye-toplulugu.md)
 * [Ödeme Formu Tasarımı](oedeme-formu-tasarimi/README.md)
-  * [Ödeme Formu Tasarımı — Kart Üzerindeki İsim](oedeme-formu-tasarimi/oedeme-formu-tasarimi-kart-uezerindeki-isim.md)
+  * [Ödeme Formu Tasarımı — Kart Üzerindeki İsim](oedeme-formu-tasarimi/odeme-formu-tasarimi-kart-uzerindeki-isim.md)
   * [Renk Körlüğü ve Ödeme Formu Tasarımı](oedeme-formu-tasarimi/renk-koerluegue-ve-oedeme-formu-tasarimi.md)
   * [Ödeme Formu Tasarımı — 2](oedeme-formu-tasarimi/oedeme-formu-tasarimi-2.md)
   * [Ödeme Formu Tasarımı - 1](oedeme-formu-tasarimi/oedeme-formu-tasarimi-1.md)
