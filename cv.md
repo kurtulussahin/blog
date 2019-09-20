@@ -8,9 +8,9 @@
 
 ### **DENEYİM ---------------------**
 
-**Kartlı Ödemeler İş Analisti \(Ibitech, Eyl 2018 – Şu anda\)**
+**İş Analisti \(Ibitech, Eyl 2018 – Şu anda\)**
 
-* Kartlı Ödemeler - EMV
+* Kartlı ödemeler projeleri analizi
 
 #### **Ödeme Sistemleri Entegrasyon Mühendisi \(iyzico, Haz 2015 – Eyl 2018. 3 yıl 3 Ay\)**
 
@@ -18,8 +18,7 @@
 * iyzico key accountları için ödeme sistemi Api entegrasyonu desteği
 * Açık kaynaklı eticaret modülleri analizi
 * Api sorgusu için hazırlanan kod kütüphanelerine katkı
-* Yeni geliştirilecek ürün ve özellikler için analiz
-* Yeni geliştirilen ürün ve özelliklerin testi
+* Yeni geliştirilecek ürün ve özelliklerin analiz ve testi
 
 #### **Hava Tahmin ve Analiz Uzmanı \(Meteoroloji İstanbul Bölge Müdürlüğü, Eyl 2007 – Haz 2015 . 7 Yıl 10 Ay\)**
 
