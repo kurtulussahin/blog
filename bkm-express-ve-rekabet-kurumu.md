@@ -4,11 +4,11 @@ description: 'Rekabet Kurumu’nun, BKM Express hakkındaki gerekçeli kararı i
 
 # Bkm Express ve Rekabet Kurumu
 
-Rekabet kurumu 30 Mayıs’da [Rekabetin Korunması Hakkında Kanun](https://www.rekabet.gov.tr/tr/Sayfa/Mevzuat/4054-sayili-kanun)uyarınca Bkm Express hizmetinin [kapatılmasına karar vermiş](https://www.rekabet.gov.tr/tr/SonKurulKarari/36540b6f-3394-e911-80fd-00505694b4c6?AspxAutoDetectCookieSupport=1) ve çok tepki çekmişti.
+Rekabet kurumu 30 Mayıs’da [_Rekabetin Korunması Hakkında Kanun_](https://www.rekabet.gov.tr/tr/Sayfa/Mevzuat/4054-sayili-kanun)_u u_yarınca Bkm Express hizmetinin [_kapatılmasına karar vermiş_](https://www.rekabet.gov.tr/tr/SonKurulKarari/36540b6f-3394-e911-80fd-00505694b4c6?AspxAutoDetectCookieSupport=1) ve çok tepki çekmişti.
 
-Ardından Bkm’den yapılan [duyuru](https://bkm.com.tr/kurumsal-iletisim/duyurular/rekabet-kurulunun-bkm-express-karari-hakkinda-aciklama/) ile Rekabet Kurumu’nun açıklayacağı gerekçeli kararda belirtilecek esaslarla uyumlu bir şekilde Türkiye’nin Dijital Cüzdanı Bkm Express’in ülke hedefleri doğrultusunda hizmet vermeye devam edeceği belirtildi.
+Ardından Bkm’den yapılan [_duyuru_](https://bkm.com.tr/kurumsal-iletisim/duyurular/rekabet-kurulunun-bkm-express-karari-hakkinda-aciklama/) ile Rekabet Kurumu’nun açıklayacağı gerekçeli kararda belirtilecek esaslarla uyumlu bir şekilde Türkiye’nin Dijital Cüzdanı Bkm Express’in ülke hedefleri doğrultusunda hizmet vermeye devam edeceği belirtildi.
 
-9 Eylül’de Rekabet Kurumu konu hakkndaki [gerekçeli kararı](https://www.rekabet.gov.tr/Karar?kararId=48a3b64c-ec3a-4460-8ed1-6aa75d68f1a1) kamuoyu ile paylaştı. Ardından BKM tarafından da, gerekçeli kararda belirtilen unsurlar gözetilerek BKM Express hizmetinin sürmesi için yürütülen çalışmanın planlanacağı [açıklandı](https://bkm.com.tr/rekabet-kurulunun-bkm-express-karari-hakkinda-aciklama-2/).
+9 Eylül’de Rekabet Kurumu konu hakkındaki [_gerekçeli kararı_](https://www.rekabet.gov.tr/Karar?kararId=48a3b64c-ec3a-4460-8ed1-6aa75d68f1a1) __kamuoyu ile paylaştı. Ardından BKM tarafından da, gerekçeli kararda belirtilen unsurlar gözetilerek BKM Express hizmetinin sürmesi için yürütülen çalışmanın planlanacağı [_açıklandı_](https://bkm.com.tr/rekabet-kurulunun-bkm-express-karari-hakkinda-aciklama-2/)_._
 
 Rekabet Kurumu gerekçeli kararının içeriğini özetlemeye, buna ek olarak Bkm Express hayatına nasıl devam edecek konusunda da birkaç tahminimi paylaşmaya çalışacağım.
 
@@ -32,21 +32,21 @@ Rekabet Kurumu ve Bkm ne yapar kısaca bakalım.
 
 Rekabet Kurumu; kartelleşmeyi ve tekelleşmeyi engellemek, tüketici faydasını artırmak, piyasa mekanizmasının sağlıklı bir şekilde işlemesine katkı sağlamak, uluslararası rekabet gücünün artırılmasına katkıda bulunmak ve giriş engellerini azaltarak yatırım ortamının sağlıklı işlemesini temin etmek amacıyla 4054 sayılı Rekabetin Korunması Hakkında Kanun’u uygulamakla yükümlü otoritedir.
 
-Bankalararası Kart Merkezi, kısaca Bkm; 13 kamu ve özel Türk bankasının ortaklığıyla 1990 yılında hayatına başlamış bir kurumdur. Şu anda banka, ödeme kuruluşu ve elektronik para kuruluşlarından oluşan [35 üyesi bulunmaktadır.](https://bkm.com.tr/bkm-hakkinda/ortaklar-ve-uyeler/uyeler/)
+Bankalararası Kart Merkezi, kısaca Bkm; 13 kamu ve özel Türk bankasının ortaklığıyla 1990 yılında hayatına başlamış bir kurumdur. Şu anda banka, ödeme kuruluşu ve elektronik para kuruluşlarından oluşan [_35 üyesi bulunmaktadır._](https://bkm.com.tr/bkm-hakkinda/ortaklar-ve-uyeler/uyeler/)\_\_
 
 Bkm’nin amacı ödeme sistemleri içerisinde; nakit kullanımı gerekmeksizin her türlü ödemeyi veya para transferini sağlayan veya destekleyen sistem, platform ve altyapıları oluşturmak, işletmek ve geliştirmektir.
 
-[Bkm’nin resmi sitesinde](https://bkm.com.tr/bkm-hakkinda/bkmyi-taniyin/tarihce/) belirtilen ana faliyet alanları;
+[_Bkm’nin resmi sitesinde_](https://bkm.com.tr/bkm-hakkinda/bkmyi-taniyin/tarihce/) belirtilen ana faliyet alanları;
 
-Kredi kartı ve banka kartı uygulaması içinde bulunan bankalar arasında uygulanacak prosedürleri geliştirmek, standardizasyonu sağlamaya yönelik çalışmalar yaparak kararlar almak, Türkiye genelinde uygulamalar ile yurt içi kuralları oluşturmak, bankalar arasındaki [takas](https://bkm.com.tr/urunler-ve-hizmetler/takas-ve-hesaplasmaya-aracilik-hizmetleri/) ve hesaplaşmayı yürütmek, yurt dışı kuruluş ve komisyonlarla ilişkiler kurmak ve gerektiğinde üyelerini bu kuruluşlarda temsil etmek, halen her banka tarafından devam ettirilen işlemleri daha güvenli, süratli ve daha az maliyetli tek bir merkezden yürütmek.
+Kredi kartı ve banka kartı uygulaması içinde bulunan bankalar arasında uygulanacak prosedürleri geliştirmek, standardizasyonu sağlamaya yönelik çalışmalar yaparak kararlar almak, Türkiye genelinde uygulamalar ile yurt içi kuralları oluşturmak, bankalar arasındaki [_takas_](https://bkm.com.tr/urunler-ve-hizmetler/takas-ve-hesaplasmaya-aracilik-hizmetleri/) ve hesaplaşmayı yürütmek, yurt dışı kuruluş ve komisyonlarla ilişkiler kurmak ve gerektiğinde üyelerini bu kuruluşlarda temsil etmek, halen her banka tarafından devam ettirilen işlemleri daha güvenli, süratli ve daha az maliyetli tek bir merkezden yürütmek.
 
 Biz Bkm’yi daha çok Bkm Express, ve Troy ile tanıyoruz.
 
 Bkm Express; kart sahiplerinin, kartlarını kaydederek kart bilgilerini internette paylaşmadan alışveriş yapabilecekleri bir dijital cüzdan.
 
-Rekabet kurumu Bkm’yi [_**Teşebbüs Birliği**_](https://www.rekabet.gov.tr/tr/Sayfa/Rekabet-savunuculugu/rekabet-hukuku/rekabet-hukukunun-esaslari/temel-kavramlar) olarak tanımlamaktadır ve Bkm’nin halihazırdaki birçok hizmeti rekabet kurumundan muafiyet iznine sahip, bunların en önemlileri takas işlemi ve takas komisyonunun belirlenmesi ile milli gururumuz Troy ödeme sistemi.
+Rekabet kurumu Bkm’yi [_**Teşebbüs Birliği**_](https://www.rekabet.gov.tr/tr/Sayfa/Rekabet-savunuculugu/rekabet-hukuku/rekabet-hukukunun-esaslari/temel-kavramlar) __olarak tanımlamaktadır ve Bkm’nin halihazırdaki birçok hizmeti rekabet kurumundan muafiyet iznine sahip, bunların en önemlileri takas işlemi ve takas komisyonunun belirlenmesi ile milli gururumuz Troy ödeme sistemi.
 
-Bkm Express hizmeti de bu güne kadar Rekabet Kurumu’nun [muafiyet verdiği](https://www.rekabet.gov.tr/Karar?kararId=920d11a2-04d7-4bda-9e94-90318349c886) hizmetlerden biriydi.
+Bkm Express hizmeti de bu güne kadar Rekabet Kurumu’nun [_muafiyet verdiği_](https://www.rekabet.gov.tr/Karar?kararId=920d11a2-04d7-4bda-9e94-90318349c886) __hizmetlerden biriydi.
 
 Peki rekabet kurumu, Bkm Express hakkındaki fikrini neden değiştirdi?
 
@@ -59,7 +59,7 @@ b\) tüketicinin bundan yarar sağlaması,
 c\) ilgili piyasanın önemli bir bölümünde rekabetin ortadan kalkmaması,  
 d\) rekabetin \(a\) ve \(b\) bentlerindeki amaçların elde edilmesi için zorunlu olandan fazla sınırlanmaması.
 
-Temel olarak, rekabet kurumu, daha önce Bkm Express uygulamasının toplumsal fayda sağladığı \(Rekabet Kurumu genel olarak Etkinlik kazanımı olarak ifade ediyor\) için izin vermiş. Muafiyet kararına buradaki [_linkten_](https://www.rekabet.gov.tr/Karar?kararId=920d11a2-04d7-4bda-9e94-90318349c886)ulaşabilir ve Rekabet Kurumu’nun nelere dayanarak böyle bir karar verdiği hakkında daha ayrıntılı fikir edinebilirsiniz. Bu rapor Rekabet Kurumu’nun konuyu nasıl değerlendirdiğini anlamaya yardımcı olacaktır
+Temel olarak, rekabet kurumu, daha önce Bkm Express uygulamasının toplumsal fayda sağladığı \(Rekabet Kurumu genel olarak Etkinlik kazanımı olarak ifade ediyor\) için izin vermiş. Muafiyet kararına buradaki [_linkten_](https://www.rekabet.gov.tr/Karar?kararId=920d11a2-04d7-4bda-9e94-90318349c886) __ulaşabilir ve Rekabet Kurumu’nun nelere dayanarak böyle bir karar verdiği hakkında daha ayrıntılı fikir edinebilirsiniz. Bu rapor Rekabet Kurumu’nun konuyu nasıl değerlendirdiğini anlamaya yardımcı olacaktır
 
 Zaman içerinde fintech sektörünün büyümesi, benzer dijital cüzdan projeleri yapmak isteyen kurumların doğmasıyla birlikte; Bkm Express uygulamasının rekebeti kısıtlayan özelliklerinin etkinlik kazanımının önüne geçtiğini düşünerek muafiyeti kaldırmış. Bu konuda gerekçeli kararda belirtilen ayrıntılara yazının devamında değineceğim. Ama gerekçeli karara geçmeden önce, kapatılma duyurusuna gelen ilk tepkilerden birkaçını daha paylaşmak istiyorum.
 
@@ -77,7 +77,7 @@ Bu yorumlardan birinde Rekabet Kurumu’na birinde de Bkm’ye haksızlık yapı
 
 Karara en sık gelen tepkilerden biri de, “_kim şikayet etti?”._
 
-Rekabet kurumunun inceleme yapması için bir şikayet olmasına gerek yok. Bu incelemeyi tetikleyen konu ise Bkm Express’ten ayrı olarak Bkm’nin sunduğu [kart saklama hizmeti](https://www.rekabet.gov.tr/Karar?kararId=2939f38d-c934-4556-855f-4295d74b9c84). Konunun dağılmaması için buraya daha fazla girmeyeceğim. Diğer taraftan kurul kararını okur iseniz, içerisinde bankalar, ödeme kuruluşları ve eticaret sitelerin bulunduğu 50'ye yakın kurumdan konu hakkında görüş topladığını görebilirsiniz.
+Rekabet kurumunun inceleme yapması için bir şikayet olmasına gerek yok. Bu incelemeyi tetikleyen konu ise Bkm Express’ten ayrı olarak Bkm’nin sunduğu [_kart saklama hizmeti_](https://www.rekabet.gov.tr/Karar?kararId=2939f38d-c934-4556-855f-4295d74b9c84). Konunun dağılmaması için buraya daha fazla girmeyeceğim. Diğer taraftan kurul kararını okur iseniz, içerisinde bankalar, ödeme kuruluşları ve eticaret sitelerin bulunduğu 50'ye yakın kurumdan konu hakkında görüş topladığını görebilirsiniz.
 
 Bunların ötesinde kararı Facebook’un Libra Coin’i ile Rocafeller ailesi ile ilişkili olabileceğini düşünenler var ki, onlar konudan zaten çok çok uzaktalar.
 
@@ -163,13 +163,13 @@ Bir tarafta; yerli kart network’ümüz Troy ile ödeme yapmamızı sağlayan, 
 
 Biz son kullanıcılar için iki kurum arasında fanatik bir tutum ile taraf tutmaya, kutuplaşmaya gerek olmadığını düşünüyorum.
 
-Bkm’ye de Rekabet Kurumu’na da güvenebilecegimize inanıyorum.
+Bkm’ye de Rekabet Kurumu’na da güvenebileceğimize inanıyorum.
 
 Sonuç her ne olursa olsun Bkm’nin geçmişte olduğu gibi gelecekte de fintech ekosistemi için lokomotif olarak devam edeceğine eminim.
 
 Hem ülke, hem sektör hem de biz bireysel kullanıcılar için en iyi olanın önümüzdeki günlerde hayata geçeceğini umuyorum.
 
-Yazı hakkındaki tüm soru ve görüşlerinizi yorum olarak paylaşabilirsiniz. Eklemek, düzeltmek istediğiz bir nokta var ise çekinmeden iletebilirsiniz.
+Yazı hakkındaki tüm soru ve görüşlerinizi yorum olarak paylaşabilirsiniz. Eklemek, düzeltmek istediğiniz bir nokta var ise çekinmeden iletebilirsiniz.
 
 ### _Kaynaklar :_ <a id="cf91"></a>
 
