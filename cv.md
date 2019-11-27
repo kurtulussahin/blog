@@ -6,7 +6,7 @@
 
 **linkedin.com/in/kurtulussahin**
 
-### **DENEYİM ---------------------**
+### **DENEYİM --------------------**
 
 **İş Analisti \(Ibitech, Eyl 2018 – Şu anda\)**
 
