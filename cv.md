@@ -1,14 +1,14 @@
 # CV
 
-{% file src=".gitbook/assets/kurtulus\_sahin\_cv.pdf" %}
-
 **kurtulussahin@gmail.com**
 
 **linkedin.com/in/kurtulussahin**
 
 ### **DENEYİM --------------------**
 
-**İş Analisti \(Ibitech, Eyl 2018 – Şu anda\)**
+**Product Manager \(Farmazon, Aralık 2019 - Şu anda\)**
+
+**İş Analisti \(Ibitech, Eyl 2018 – Aralık 2019\)**
 
 * Kartlı ödemeler projeleri analizi
 
